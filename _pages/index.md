@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
 excerpt: >
-  <br /><br /><br />
+  <br /><br /><br /><br />
 feature_row:
   - image_path: /assets/images/white.png
     alt: "ONLINE SERVICES"
