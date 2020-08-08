@@ -17,4 +17,4 @@ layout: single
 ## 04 July 2020
 <a href="https://youtu.be/MdeLwi10xyU"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 04 July 2020.jpg" alt="">
 ## Discipleship Congress 2020 (Rehersal)
-<a href="https://youtu.be/cmNbj8ObMT0"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - Discipleship Congress 2020.jpg" alt="">
+<a href="https://youtu.be/cmNbj8ObMT0"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Discipleship Congress 2020.jpg" alt="">
