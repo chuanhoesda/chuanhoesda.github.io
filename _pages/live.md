@@ -4,9 +4,9 @@ title: "Worship Livestream"
 layout: single
 ---
 
-## Discipleship Congress 2020 (Workshop 1) at 2pm - 15 August 2020
+## 15 August 2020 - Workshop 1 (2pm)
 <a href="https://youtu.be/JUNXNwMDBsA"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Discipleship Congress - 15 August 2020 - Workshop 1.jpg" alt="">
-## Discipleship Congress 2020 at 11am - 15 August 2020
+## 15 August 2020 (11am) 
 <a href="https://youtu.be/vPHljPWGtsM"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Discipleship Congress - 15 August 2020.jpg" alt="">
 ## 8 August 2020
 <a href="https://youtu.be/jtR8Mco2sCw"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 08 August 2020.jpg" alt="">
