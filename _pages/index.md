@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/white.png
     alt: "ONLINE SERVICES"
     title: "<i class='fas fa-video'></i> ONLINE SERVICES"
-    excerpt: "Worship Service: 10:00AM - 11:00AM"
+    excerpt: "Worship Service: 11:15AM - 12:15PM"
   - image_path: /assets/images/white.png
     alt: "LOCATION"
     title: "<i class='fas fa-map-signs'></i> LOCATION"
