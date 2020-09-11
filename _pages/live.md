@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## 12 September 2020
+<a href="https://youtu.be/MVHQpJixEvY"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 12 September 2020.jpg" alt="">
 ## 05 September 2020
 <a href="https://youtu.be/o2OIU5RYbtw"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 05 September 2020.jpg" alt="">
 ## 29 August 2020 (11am) 
