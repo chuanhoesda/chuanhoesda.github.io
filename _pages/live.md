@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## 17 October 2020
+<a href="https://youtu.be/Ow-2yCJkoZk"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 17 October 2020.jpg" alt="">
 ## 10 October 2020
 <a href="https://youtu.be/OeiNTfVyLBQ"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 10 October 2020.jpg" alt="">
 ## 03 October 2020
