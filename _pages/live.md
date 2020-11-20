@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## 21 November 2020
+<a href="https://youtu.be/Ngf8XzWTyL4"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 21 November 2020.jpg" alt="">
 ## 14 November 2020
 <a href="https://youtu.be/3k5TWo8X9_0"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 14 November 2020.jpg" alt="">
 ## 07 November 2020
