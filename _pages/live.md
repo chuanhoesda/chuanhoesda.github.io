@@ -5,7 +5,7 @@ layout: single
 ---
 
 ## 05 November 2020
-<a href="https://youtu.be/XPszb_1TJPw"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 28 November 2020.jpg" alt="">
+<a href="https://youtu.be/XPszb_1TJPw"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 05 December 2020.jpg" alt="">
 ## 28 November 2020
 <a href="https://youtu.be/s4EaKffxLv0"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 28 November 2020.jpg" alt="">
 ## 21 November 2020
