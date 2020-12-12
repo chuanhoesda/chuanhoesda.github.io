@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## 12 December 2020
+<a href="https://youtu.be/sGo-RMLk1Yw"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 12 December 2020.jpg" alt="">
 ## 05 December 2020
 <a href="https://youtu.be/XPszb_1TJPw"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 05 December 2020.jpg" alt="">
 ## 28 November 2020
