@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## 23 January 2021
+<a href="https://youtu.be/aB2xtL1OAoU"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 23 January 2021.jpg" alt="">
 ## 16 January 2021
 <a href="https://youtu.be/y--Uf-q0saQ"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 16 January 2021.jpg" alt="">
 ## 09 January 2021
