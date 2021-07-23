@@ -9,7 +9,7 @@ layout: single
 ## Baptism Service - 17 July 2021
 <a href="https://youtu.be/KIzTz35epg4"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Baptism Service - 17 July 2021.jpg" alt="">
 ## 17 July 2021
-<a href="https://youtu.be/4IIP8zb2cgc"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 17 April 2021.jpg" alt="">
+<a href="https://youtu.be/4IIP8zb2cgc"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 17 July 2021.jpg" alt="">
 ## 10 July 2021
 <a href="https://youtu.be/CMwLeEUUWCI"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 10 July 2021.jpg" alt="">
 ## 03 July 2021
