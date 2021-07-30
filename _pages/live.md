@@ -4,7 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
-
+## 31 July 2021
+<a href="https://youtu.be/1qQWg5wtyM8"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 31 July 2021.jpg" alt="">
 ## 24 July 2021
 <a href="https://youtu.be/LQKjy7-RP-s"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 24 July 2021.jpg" alt="">
 ## Baptism Service - 17 July 2021
