@@ -5,7 +5,7 @@ layout: single
 ---
 
 ## 04 September 2021
-<a href="https://youtu.be/9hyvLSsTKQk"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 04 September 2021.jpg" alt="">
+<a href="https://youtu.be/pw_8Ul1LZM4"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 04 September 2021.jpg" alt="">
 ## 28 August 2021
 <a href="https://youtu.be/9hyvLSsTKQk"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 28 August 2021.jpg" alt="">
 ## 21 August 2021
