@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## 11 September 2021
+<a href="https://youtu.be/n-QfIiqVf3c"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 11 September 2021.jpg" alt="">
 ## 04 September 2021
 <a href="https://youtu.be/pw_8Ul1LZM4"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 04 September 2021.jpg" alt="">
 ## 28 August 2021
