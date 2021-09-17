@@ -18,23 +18,3 @@ layout: single
 <a href="https://youtu.be/awCsR7BT7rQ"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 14 August 2021.jpg" alt="">
 ## 07 August 2021
 <a href="https://youtu.be/roy-c1AhxhU"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 07 August 2021.jpg" alt="">
-## 31 July 2021
-<a href="https://youtu.be/1qQWg5wtyM8"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 31 July 2021.jpg" alt="">
-## 24 July 2021
-<a href="https://youtu.be/LQKjy7-RP-s"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 24 July 2021.jpg" alt="">
-## Baptism Service - 17 July 2021
-<a href="https://youtu.be/KIzTz35epg4"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Baptism Service - 17 July 2021.jpg" alt="">
-## 17 July 2021
-<a href="https://youtu.be/4IIP8zb2cgc"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 17 July 2021.jpg" alt="">
-## 10 July 2021
-<a href="https://youtu.be/CMwLeEUUWCI"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 10 July 2021.jpg" alt="">
-## 03 July 2021
-<a href="https://youtu.be/cxmeGK7v7lc"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 03 July 2021.jpg" alt="">
-## 26 June 2021
-<a href="https://youtu.be/T9OsfHaZMK0"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 26 June 2021.jpg" alt="">
-## 19 June 2021
-<a href="https://youtu.be/ZHTaOVVUQm4"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 19 June 2021.jpg" alt="">
-## 12 June 2021
-<a href="https://youtu.be/5sQpJA61AMQ"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 12 June 2021.jpg" alt="">
-## 05 June 2021
-<a href="https://youtu.be/A-W5wLKXW48"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 05 June 2021.jpg" alt="">
