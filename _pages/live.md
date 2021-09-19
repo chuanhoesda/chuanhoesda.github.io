@@ -5,7 +5,7 @@ layout: single
 ---
 
 ## Refresh with the Word - 19 September 2021
-<a href="https://youtu.be/pcR7pkeVO84"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Refresh with the Word - 19 September 2021.jpg" alt="">
+<a href="https://youtu.be/5vAVIvOkO5A"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Refresh with the Word - 19 September 2021.jpg" alt="">
 ## 18 September 2021
 <a href="https://youtu.be/pcR7pkeVO84"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 18 September 2021.jpg" alt="">
 ## 11 September 2021
