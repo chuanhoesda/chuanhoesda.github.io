@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## Worship Service - 02 October 2021
+<a href="https://youtu.be/d3pDo_jgo2c"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 02 October 2021.jpg" alt="">
 ## Refresh with the Word - 25 September 2021
 <a href="https://youtu.be/byFtt3QIfRk"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Refresh with the Word - 25 September 2021.jpg" alt="">
 ## Worship Service - 25 September 2021
