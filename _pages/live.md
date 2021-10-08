@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## Worship Service - 09 October 2021
+<a href="https://youtu.be/9lnLTewcwRE"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 09 October 2021.jpg" alt="">
 ## Worship Service - 02 October 2021
 <a href="https://youtu.be/d3pDo_jgo2c"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 02 October 2021.jpg" alt="">
 ## Refresh with the Word - 25 September 2021
@@ -28,11 +30,3 @@ layout: single
 <a href="https://youtu.be/n-QfIiqVf3c"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 11 September 2021.jpg" alt="">
 ## 04 September 2021
 <a href="https://youtu.be/pw_8Ul1LZM4"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 04 September 2021.jpg" alt="">
-## 28 August 2021
-<a href="https://youtu.be/9hyvLSsTKQk"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 28 August 2021.jpg" alt="">
-## 21 August 2021
-<a href="https://youtu.be/UJ3BRCzqY2E"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 21 August 2021.jpg" alt="">
-## 14 August 2021
-<a href="https://youtu.be/awCsR7BT7rQ"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 14 August 2021.jpg" alt="">
-## 07 August 2021
-<a href="https://youtu.be/roy-c1AhxhU"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 07 August 2021.jpg" alt="">
