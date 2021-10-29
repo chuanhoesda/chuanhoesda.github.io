@@ -4,6 +4,8 @@ title: "Worship Livestream"
 layout: single
 ---
 
+## Worship Service - 30 October 2021
+<a href="https://youtu.be/HH3oXbM035I"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 30 October 2021.jpg" alt="">
 ## Worship Service - 23 October 2021
 <a href="https://youtu.be/eyY2DgnizEE"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Worship Service - 23 October 2021.jpg" alt="">
 ## Worship Service - 16 October 2021
