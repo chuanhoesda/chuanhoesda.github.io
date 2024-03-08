@@ -23,3 +23,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+{% include figure image_path="/assets/images/announcements/Announcement_Bread-Baking.jpg" alt="Bread Baking Announcement" %}
