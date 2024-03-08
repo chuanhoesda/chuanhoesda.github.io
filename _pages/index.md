@@ -7,8 +7,13 @@ header:
   overlay_image: /assets/images/banner.jpg
 excerpt: >
   <br /><br /><br /><br />
+gallery:
+  - url: /assets/images/announcements/Announcement_Bread-Baking.jpg
+    image_path: /assets/images/announcements/Announcement_Bread-Baking.jpg
+    alt: "Bread Baking Demo"
+    title: "Bread Baking Demo"
 feature_row:
-  - image_path: /assets/images/announcements/Announcement_Bread-Baking.jpg
+  - image_path: /assets/images/white.png
     alt: "ONLINE SERVICES"
     title: "<i class='fas fa-video'></i> ONLINE SERVICES"
     excerpt: "Worship Service: 11:15AM - 12:15PM"
@@ -21,5 +26,5 @@ feature_row:
     title: "<i class='fas fa-envelope'></i> CONTACT US "
     excerpt: "Pastor - Paulraj Masillamony"
 ---
-
+{% include gallery %}
 {% include feature_row %}
