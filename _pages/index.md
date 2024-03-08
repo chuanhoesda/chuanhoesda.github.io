@@ -8,7 +8,7 @@ header:
 excerpt: >
   <br /><br /><br /><br />
 feature_row:
-  - image_path: /assets/images/white.png
+  - image_path: /assets/images/announcements/Announcement_Bread-Baking.jpg
     alt: "ONLINE SERVICES"
     title: "<i class='fas fa-video'></i> ONLINE SERVICES"
     excerpt: "Worship Service: 11:15AM - 12:15PM"
@@ -23,5 +23,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-{% include figure image_path="/assets/images/announcements/Announcement_Bread-Baking.jpg" alt="Bread Baking Announcement" %}
