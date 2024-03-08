@@ -8,10 +8,12 @@ header:
 excerpt: >
   <br /><br /><br /><br />
 gallery:
+  - image_path: /assets/images/white.png
   - url: /assets/images/announcements/Announcement_Bread-Baking.jpg
     image_path: /assets/images/announcements/Announcement_Bread-Baking.jpg
     alt: "Bread Baking Demo"
     title: "Bread Baking Demo"
+  - image_path: /assets/images/white.png
 feature_row:
   - image_path: /assets/images/white.png
     alt: "ONLINE SERVICES"
