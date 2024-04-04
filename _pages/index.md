@@ -16,9 +16,9 @@ gallery:
   - image_path: /assets/images/white.png
 feature_row:
   - image_path: /assets/images/white.png
-    alt: "SATURDAY WORSHIP SERVICES"
-    title: "<i class="fa-solid fa-book-bible"></i> SATURDAY WORSHIP SERVICES"
-    excerpt: "10:30AM - Worship & Bible Study  12:30PM - Lunch Fellowship & Social Activities"
+    alt: "ONLINE SERVICES"
+    title: "<i class='fas fa-video'></i> ONLINE SERVICES"
+    excerpt: "Worship Service: 11:15AM - 12:15PM"
   - image_path: /assets/images/white.png
     alt: "LOCATION"
     title: "<i class='fas fa-map-signs'></i> LOCATION"
@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/white.png
     alt: "CONTACT US"
     title: "<i class='fas fa-envelope'></i> CONTACT US "
-    excerpt: "Elder - Phyllisity Liang @ 9877 1806  Elder - Janie Foo @ 9099 3072"
+    excerpt: "Pastor - Paulraj Masillamony"
 ---
 {% include gallery %}
 {% include feature_row %}
