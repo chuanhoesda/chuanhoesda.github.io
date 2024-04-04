@@ -16,17 +16,17 @@ gallery:
   - image_path: /assets/images/white.png
 feature_row:
   - image_path: /assets/images/white.png
-    alt: "ONLINE SERVICES"
-    title: "<i class='fas fa-video'></i> ONLINE SERVICES"
-    excerpt: "Worship Service: 11:15AM - 12:15PM"
+    alt: "SATURDAY WORSHIP"
+    title: "<i class='fa fa-users' aria-hidden='true'></i> SATURDAY WORSHIP"
+    excerpt: "10:30AM - Worship & Bible Study<br/>12:30PM - Lunch Fellowship & Social Activities"
   - image_path: /assets/images/white.png
     alt: "LOCATION"
     title: "<i class='fas fa-map-signs'></i> LOCATION"
     excerpt: "226 Yio Chu Kang Rd, Singapore 545664"
   - image_path: /assets/images/white.png
     alt: "CONTACT US"
-    title: "<i class='fas fa-envelope'></i> CONTACT US "
-    excerpt: "Pastor - Paulraj Masillamony"
+    title: "<i class='fas fa-envelope'></i> CONTACT US"
+    excerpt: "Elder - Phyllisity Liang @ 9877 1806<br/>Elder - Janie Foo @ 9099 3072<br/>[Facebook page - Message for Details](https://www.facebook.com/groups/chuanhoesdac/)"
 ---
 {% include gallery %}
 {% include feature_row %}
