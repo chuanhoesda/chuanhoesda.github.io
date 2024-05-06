@@ -9,11 +9,14 @@ excerpt: >
   <br /><br /><br /><br />
 gallery:
   - image_path: /assets/images/white.png
-  - url: /assets/images/announcements/Announcement_Bread-Baking.jpg
-    image_path: /assets/images/announcements/Announcement_Bread-Baking.jpg
-    alt: "Bread Baking Demo"
-    title: "Bread Baking Demo"
-  - image_path: /assets/images/white.png
+  - url: https://forms.gle/xKjehWd82UYGq5pE7
+    image_path: /assets/images/announcements/Poster.jpg
+    alt: "Health Seminar"
+    title: "Health Seminar"
+  - url: /assets/images/announcements/Directions.jpeg
+    image_path: /assets/images/announcements/Directions.jpeg
+    alt: "Diections"
+    title: "Diections"
 feature_row:
   - image_path: /assets/images/white.png
     alt: "SATURDAY WORSHIP"
