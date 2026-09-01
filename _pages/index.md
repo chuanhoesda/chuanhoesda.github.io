@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+image: /assets/images/adventist-symbol-tm-circle--black.png
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.jpg
