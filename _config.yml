@@ -21,6 +21,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: false
+og_image: /assets/images/adventist-symbol-tm-circle--black.png
 
 # Build settings
 markdown: kramdown
