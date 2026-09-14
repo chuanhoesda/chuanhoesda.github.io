@@ -8,19 +8,6 @@ header:
   overlay_image: /assets/images/banner.jpg
 excerpt: >
   <br /><br /><br /><br />
-gallery:
-  - url: /assets/images/announcements/resistanceband1.jpeg
-    image_path: /assets/images/announcements/resistanceband1.jpeg
-    alt: "Resistance band exercise class 1"
-    title: "Resistance band exercise class 1"
-  - url: /assets/images/announcements/resistanceband2.jpeg
-    image_path: /assets/images/announcements/resistanceband2.jpeg
-    alt: "Resistance band exercise class 2"
-    title: "Resistance band exercise class 2"
-  - url: /assets/images/announcements/resistanceband3.jpeg
-    image_path: /assets/images/announcements/resistanceband3.jpeg
-    alt: "Resistance band exercise class 3"
-    title: "Resistance band exercise class 3"
 directions_gallery:
   - url: /assets/images/announcements/Directions.jpeg
     image_path: /assets/images/announcements/Directions.jpeg
@@ -35,10 +22,8 @@ feature_row:
     excerpt: "226 Yio Chu Kang Rd, Singapore 545664"
   - alt: "CONTACT US"
     title: "<i class='fas fa-envelope'></i> CONTACT US"
-    excerpt: "Elder - Phyllisity Liang @ 9877 1806<br/>Elder - Janie Foo @ 9099 3072<br/>[Facebook page - Message for Details](https://www.facebook.com/groups/chuanhoesdac/)"
+    excerpt: "Elder - Phyllisity Liang @ 9877 1806<br/>Elder - Janie Foo @ 9099 3072<br/><a href='fb://group/chuanhoesdac' onclick=\"setTimeout(function(){ window.location='https://www.facebook.com/groups/chuanhoesdac/'; }, 500);\">Facebook page - Message for Details</a>"
 ---
-
-
 
 
 <div style="margin-top: 3rem;">
@@ -59,9 +44,9 @@ feature_row:
       <p class="archive__item-excerpt">{{ post.excerpt }}</p>
     {% endif %}
     {% if post.gallery %}
-      <div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 1rem;">
+      <div class="gallery" style="display: grid; grid-template-columns: {% if post.gallery.size == 1 %}1fr{% else %}repeat(3, 1fr){% endif %}; gap: 1rem; margin-top: 1rem;">
         {% for image in post.gallery limit:3 %}
-          <a href="{{ image.url | relative_url }}" class="image-popup">
+          <a href="{{ image.url | relative_url }}" class="image-popup"{% if post.gallery.size == 1 %} style="width: 33.333%; justify-self: center;"{% endif %}>
             <img src="{{ image.image_path | relative_url }}" alt="{{ image.alt }}" style="width: 100%; height: auto; border-radius: 4px;">
           </a>
         {% endfor %}

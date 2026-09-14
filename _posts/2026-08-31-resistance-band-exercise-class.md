@@ -6,16 +6,16 @@ tags:
   - exercise
   - fellowship
 gallery:
-  - url: /assets/images/announcements/resistanceband1.jpeg
-    image_path: /assets/images/announcements/resistanceband1.jpeg
+  - url: /assets/images/announcements/31082026%20-%20Exercise/1.jpeg
+    image_path: /assets/images/announcements/31082026%20-%20Exercise/1.jpeg
     alt: "Resistance band exercise class 1"
     title: "Resistance band exercise class 1"
-  - url: /assets/images/announcements/resistanceband2.jpeg
-    image_path: /assets/images/announcements/resistanceband2.jpeg
+  - url: /assets/images/announcements/31082026%20-%20Exercise/2.jpeg
+    image_path: /assets/images/announcements/31082026%20-%20Exercise/2.jpeg
     alt: "Resistance band exercise class 2"
     title: "Resistance band exercise class 2"
-  - url: /assets/images/announcements/resistanceband3.jpeg
-    image_path: /assets/images/announcements/resistanceband3.jpeg
+  - url: /assets/images/announcements/31082026%20-%20Exercise/3.jpeg
+    image_path: /assets/images/announcements/31082026%20-%20Exercise/3.jpeg
     alt: "Resistance band exercise class 3"
     title: "Resistance band exercise class 3"
 ---
