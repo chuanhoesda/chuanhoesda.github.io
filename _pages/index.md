@@ -27,9 +27,42 @@ feature_row:
 
 
 <div style="margin-top: 3rem;">
+  {% assign upcoming_posts = site.posts | where_exp: "post", "post.date > site.time" %}
+  {% if upcoming_posts.size > 0 %}
+  <h2 style="border-bottom: 1px solid #e0e0e0; padding-bottom: 0.5rem;">Upcoming Events</h2>
+
+  {% for post in upcoming_posts limit:3 %}
+<div class="list__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title no_toc">
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+    {% if post.date %}
+      <p class="archive__item-excerpt" style="margin-top: 0; font-size: 0.75em;">
+        <time datetime="{{ post.date | date: "%Y-%m-%dT%H:%M:%S%z" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+      </p>
+    {% endif %}
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+    {% endif %}
+    {% if post.gallery %}
+      <div class="gallery" style="display: grid; grid-template-columns: {% if post.gallery.size == 1 %}1fr{% else %}repeat(3, 1fr){% endif %}; gap: 1rem; margin-top: 1rem;">
+        {% for image in post.gallery limit:3 %}
+          <a href="{{ image.url | relative_url }}" class="image-popup"{% if post.gallery.size == 1 %} style="width: 33.333%; justify-self: center;"{% endif %}>
+            <img src="{{ image.image_path | relative_url }}" alt="{{ image.alt }}" style="width: 100%; height: auto; border-radius: 4px;">
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </article>
+</div>
+{% endfor %}
+  {% endif %}
+
+  {% assign latest_posts = site.posts | where_exp: "post", "post.date <= site.time" %}
   <h2 style="border-bottom: 1px solid #e0e0e0; padding-bottom: 0.5rem;">Latest Updates</h2>
 
-  {% for post in site.posts limit:3 %}
+  {% for post in latest_posts limit:3 %}
 <div class="list__item">
   <article class="archive__item">
     <h2 class="archive__item-title no_toc">
