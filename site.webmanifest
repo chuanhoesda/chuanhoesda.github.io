@@ -1,4 +1,10 @@
 {
+  "name": "Chuan Hoe SDA Church",
+  "short_name": "Chuan Hoe SDA",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "/assets/images/adventist-symbol-tm-circle--black.png",

@@ -3,7 +3,11 @@ main:
     url: /about-us/
   - title: "OUR BELIEFS"
     url: /our-beliefs/
-  - title: "WORSHIP LIVESTREAM"
-    url: /live/
+  - title: "EVENTS"
+    url: /events/
   - title: "ONLINE RESOURCES"
     url: /online-resources/
+  - title: "CONTACT"
+    url: /contact/
+  - title: "WORSHIP LIVESTREAM"
+    url: /live/

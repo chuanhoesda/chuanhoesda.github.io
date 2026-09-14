@@ -4,7 +4,7 @@ title: "About Us"
 ---
 
 ## WELCOME TO CHUAN HOE CHURCH
-Our church offers a vibrant mix of young and old members, some of whom have been with us for more than 20 years. You’ll feel right at homein awarm and friendly environment, whether you are a first-time or returning visitor. We welcome you to join us in our weekly;Saturday(Sabbath) morning worship service and Bible study. We also have other programmes – check out our calendar of events for a detailed list. We look forward to hearing from and meeting you.
+Our church offers a vibrant mix of young and old members, some of whom have been with us for more than 20 years. You’ll feel right at home in a warm and friendly environment, whether you are a first-time or returning visitor. We welcome you to join us for our weekly Saturday (Sabbath) morning worship service and Bible study.
 
 ## BRIEF HISTORY
 In early part of 1972, lay evangelism was organized by Southeast Asia Union College (SAUC) Church especially for Voice of Prophecy (VOP) students. The meeting was called the VOP Club, a study group led by Pastor Sim Chor Kiat, an intern pastor who was mentored by Pastor Ralph Neall, the pastor of SAUC Church. The club studied the book “Real Happiness is” (which is Steps to Christ by Ellen G White). Together with a few dedicated people namely, Birthie Chan and Dr Paul Genstler, the VOP club at 988 Upper Serangoon Road at the house of Robert Chan, attracted many young people.

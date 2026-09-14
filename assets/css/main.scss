@@ -7,6 +7,53 @@
 .archive__item {
     text-align:center;
 }
+
+.home-posts {
+    margin-top: 3rem;
+}
+
+.home-posts-heading {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+}
+
+.home-post-date {
+    margin-top: 0;
+    font-size: 0.75em;
+}
+
+.home-post-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.home-post-gallery--single {
+    grid-template-columns: 1fr;
+}
+
+.home-post-gallery--single .home-post-image-link {
+    width: 33.333%;
+    justify-self: center;
+}
+
+.home-post-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+@media (max-width: 600px) {
+    .home-post-gallery {
+        grid-template-columns: 1fr;
+    }
+
+    .home-post-gallery--single .home-post-image-link {
+        width: 65%;
+    }
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
