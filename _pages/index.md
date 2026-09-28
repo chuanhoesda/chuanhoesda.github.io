@@ -27,7 +27,7 @@ feature_row:
 
 
 <div class="home-posts">
-  {% assign upcoming_posts = site.posts | where_exp: "post", "post.date > site.time" %}
+  {% assign upcoming_posts = site.posts | where_exp: "post", "post.date > site.time" | sort: "date" %}
   {% if upcoming_posts.size > 0 %}
   <h2 class="home-posts-heading">Upcoming Events</h2>
 
